@@ -1,6 +1,6 @@
 # Grin Mobile Wallet (iOS)
 
-A simple yet stylish iOS wallet for the Grin cryptocurrency, built with SwiftUI. Focuses on privacy and ease-of-use, connecting to a remote Grin node for lightweight performance.
+A simple yet stylish iOS wallet for the Grin cryptocurrency, built with SwiftUI (Wallet name TBD). Focuses on privacy and ease-of-use, connecting to a remote Grin node for lightweight performance.
 
 ## 🚀 Features
 - **Secure Wallet Management**: BIP39 seed phrase generation and recovery.
