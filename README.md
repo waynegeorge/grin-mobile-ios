@@ -1,30 +1,37 @@
 # Grin Mobile Wallet (iOS)
 
-A simple yet stylish iOS wallet for the Grin cryptocurrency, built with SwiftUI (Wallet name TBD). Focuses on privacy and ease-of-use, connecting to a remote Grin node for lightweight performance.
+## 📖 Introduction
 
 ## 🚀 Features
-- **Secure Wallet Management**: BIP39 seed phrase generation and recovery.
-- **Balance & History**: Real-time balance display and transaction log (cached offline).
-- **Send & Receive**: QR code scanning/generation for slates; intuitive transaction flows.
-- **Privacy-First**: Encrypted connections to remote node (Tor/HTTPS); no user data tracked.
-- **Beautiful Design**: Clean SwiftUI interface with dark/light mode, smooth animations, and accessibility support.
-- **MVP Scope**: Core wallet ops only — no exchanges or advanced analytics.
-
-Future: Android port, multi-node support, fiat views.
 
 ## 🛠 Tech Stack
-- **Language/UI**: Swift 5+, SwiftUI
-- **Networking**: URLSession for secure HTTP/gRPC to remote Grin node
-- **Crypto**: Custom slatepack handling (inspired by Grin RFCs); libsodium for encryption
-- **Storage**: Keychain (secrets), Core Data (tx cache)
-- **Dependencies**: 
-  - Swift Package Manager: None external (minimalist approach)
-- **Node**: Trusted Community nodes or remote full node (self-hosted; see [docs](https://github.com/mimblewimble/grin))
 
 ## 📱 Prerequisites
-- macOS with Xcode 15+ (iOS 17+ target)
-- iOS Simulator or physical device for testing
-- Remote Grin node: Set up via [Grin Quickstart](https://github.com/mimblewimble/grin#quick-start). Configure Tor for anonymity.
 
 ## 🔧 Setup & Installation
-1. **Clone the Repo**:
+
+## 🏗 Project Structure
+
+## 🔒 Security Notes
+
+## 🤝 Contributing
+1. Fork the repo.
+2. Create a feature branch: `git checkout -b feature/cool-thing`.
+3. Commit changes: `git commit -m "Add cool thing"`.
+4. Push and PR: `git push origin feature/cool-thing`.
+
+Follow Swift best practices. Issues/PRs welcome—focus on UX polish!
+
+## 📄 License
+MIT License.
+
+## 🙏 Acknowledgments
+- Grin Project: [github.com/mimblewimble/grin](https://github.com/mimblewimble/grin)
+- SwiftUI Resources: Apple Docs
+- Design Inspiration: TBC
+
+## 📞 Contact
+- Questions? Open an issue or DM @waynegeorge_ on X.
+- UI tests: Run on device for haptics/QR scanning.
+
+## 🏗 Project Structure
