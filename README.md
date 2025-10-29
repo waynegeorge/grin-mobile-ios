@@ -32,6 +32,3 @@ MIT License.
 
 ## 📞 Contact
 - Questions? Open an issue or DM @waynegeorge_ on X.
-- UI tests: Run on device for haptics/QR scanning.
-
-## 🏗 Project Structure
